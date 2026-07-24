@@ -1,0 +1,55 @@
+[
+  {
+    "id": "roma-store",
+    "title": "Roma Store",
+    "category": "E-commerce",
+    "description": "Modern fashion website.",
+    "image": "assets/images/roma-store.png",
+    "website": "https://romastore.vercel.app",
+    "github": "https://github.com/YOURNAME/roma-store",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "features": [
+      "Responsive",
+      "Fast",
+      "Arabic",
+      "Modern UI"
+    ]
+  },
+
+  {
+    "id": "7areefa",
+    "title": "7areefa",
+
+    "category":"Sports",
+
+    "description":"Football Website",
+
+    "image":"assets/images/7areefa.png",
+
+    "website":"https://7areefa.vercel.app",
+
+    "github":"https://github.com/YOURNAME/7areefa",
+
+    "technologies":[
+
+      "HTML",
+      "CSS",
+      "JavaScript"
+
+    ],
+
+    "features":[
+
+      "Voting",
+      "Responsive",
+      "Animations"
+
+    ]
+
+  }
+
+]
